@@ -125,15 +125,6 @@ Actively deepening my knowledge in:
 
 <br>
 
-## GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil-narola&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil-narola&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
-<br>
-
 ## Let's Build Something
 
 **Have a product idea, custom CRM requirement, complex integration, or software challenge?**
